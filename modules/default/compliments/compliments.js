@@ -12,7 +12,8 @@ Module.register("compliments", {
 	defaults: {
 		compliments: {
 			anytime: [
-				"Hey there sexy!"
+				"Hey there sexy!",
+				"Looking good Bro!"
 			],
 			morning: [
 				"Good morning, handsome!",
@@ -22,7 +23,7 @@ Module.register("compliments", {
 			afternoon: [
 				"Hello, beauty!",
 				"You look sexy!",
-				"Looking good today!"
+				"Sup, my nigga"
 			],
 			evening: [
 				"Wow, you look hot!",
